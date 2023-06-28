@@ -12,7 +12,7 @@ const BaseLayout = (props) => {
       <p>Footer 2 main 2</p>
       <p>Footer 2 main 2</p>
       <p>Footer 2 main 2</p>
-      <div>Footer 2 main 2</div>
+      <p>Footer 2 main 2</p>
       <div>Footer 2 main 2</div>
       <div>Footer 2 main 2</div>
       <a>Footer 2 main 2
