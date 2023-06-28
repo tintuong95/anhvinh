@@ -9,7 +9,7 @@ const BaseLayout = (props) => {
       <div className="col-span-7">
         <Outlet />
       </div>
-      <div>Footer</div>
+      <div>Footer test</div>
     </div>
  
   );
