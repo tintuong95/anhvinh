@@ -15,6 +15,7 @@ const BaseLayout = (props) => {
       <p>Footer 2 main 2</p>
       <small>Footer 2 main 2</small>
       <small>Footer 2 main 1</small>
+      <small>Footer 2 main 3</small>
       <h1>Hello main</h1>
       <small>Footer 2 main 2</small>
       <a>Footer 2 main 2
