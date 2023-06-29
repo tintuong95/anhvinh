@@ -13,10 +13,10 @@ const BaseLayout = (props) => {
       <p>Footer 2 main 2</p>
       <p>Footer 2 main 2</p>
       <p>Footer 2 main 2</p>
-      <div>Footer 2 main 2</div>
-      <div>Footer 2 main 2</div>
+      <small>Footer 2 main 2</small>
+      <small>Footer 2 main 2</small>
       <a>Footer 2 main 2
-        <div>hello</div>
+        <small>hello</small>
       </a>
     </div>
  
